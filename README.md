@@ -55,5 +55,7 @@ This project automates the process by:
 ![Dashboard](resume_img.png)
 
 ---
-##Author
+
+## Author
 Paluri Uma Naga Srinivas
+
